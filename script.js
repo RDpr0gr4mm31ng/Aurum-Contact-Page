@@ -491,7 +491,11 @@ const data = {
         },
         {
           "day": 29,
-          "value": 0.32
+          "value": 0.58
+        },
+        {
+          "day": 30,
+          "value": 0.5
         }
       ],
       "July": [],
@@ -689,7 +693,12 @@ const data = {
           "value": 1.03
         }
       ],
-      "July": [],
+      "July": [
+        {
+          "day": 1,
+          "value": 0.93
+        }
+      ],
       "Aug": [],
       "Sept": [],
       "Oct": [],
